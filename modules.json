@@ -242,15 +242,6 @@
       }
     }
   },
-  "mixpanel-browser": {
-    "var": "mixpanel",
-    "versions": {
-      ">= 2.0.0": {
-        "development": "https://unpkg.com/mixpanel-browser@[version]/build/mixpanel.umd.js",
-        "production": "https://unpkg.com/mixpanel-browser@[version]/mixpanel.min.js"
-      }
-    }
-  },
   "raven-js": {
     "var": "Raven",
     "versions": {
