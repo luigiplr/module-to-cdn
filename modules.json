@@ -232,5 +232,14 @@
         "production": "https://unpkg.com/preact-compat@[version]/dist/preact-compat.min.js"
       }
     }
+  },
+  "immutable": {
+    "var": "Immutable",
+    "versions": {
+      ">= 3.0.0": {
+        "development": "https://unpkg.com/immutable@[version]/dist/immutable.js",
+        "production": "https://unpkg.com/immutable@[version]/dist/immutable.min.js"
+      }
+    }
   }
 }
